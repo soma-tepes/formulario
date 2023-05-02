@@ -1,0 +1,15 @@
+.form{
+    display: flex;
+    flex-direction: column;
+    background-color: #888;
+    width: 50vw;
+    height: 50vh;
+    display: flex;
+  }
+  
+  
+  .ima_form{
+    width: 150px;
+    height: 150px;
+   
+  }
